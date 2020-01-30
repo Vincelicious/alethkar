@@ -1,6 +1,5 @@
 # Statamic 2 Starter Theme: Alethkar
 
-## Description
 Alethkar is a starter theme designed to give you a head start when building your next Statamic 2 website.
 
 ## Features
