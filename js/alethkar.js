@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/vincent/Code/Projects/Personal/statamic-starter/site/themes/alethkar/src/js/alethkar.js */"./src/js/alethkar.js");
-module.exports = __webpack_require__(/*! /Users/vincent/Code/Projects/Personal/statamic-starter/site/themes/alethkar/src/css/alethkar.css */"./src/css/alethkar.css");
+__webpack_require__(/*! /Users/vincent/Code/Projects/Personal/alethkar/site/themes/alethkar/src/js/alethkar.js */"./src/js/alethkar.js");
+module.exports = __webpack_require__(/*! /Users/vincent/Code/Projects/Personal/alethkar/site/themes/alethkar/src/css/alethkar.css */"./src/css/alethkar.css");
 
 
 /***/ })
